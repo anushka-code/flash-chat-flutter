@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "445856304172",
+    "firebase_url": "https://flashchat-ff155.firebaseio.com",
+    "project_id": "flashchat-ff155",
+    "storage_bucket": "flashchat-ff155.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445856304172:android:194a3e9703bcf286051589",
+        "android_client_info": {
+          "package_name": "co.anushka.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445856304172-e2h6qg5g94eau49hass3o5tmr2vrrdc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcXc1ypbQDWRammk0_wVd-f-EJOkT19sk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445856304172-e2h6qg5g94eau49hass3o5tmr2vrrdc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
